@@ -322,7 +322,7 @@
 #define __FPU_USED 1
 #define ARM_MATH_CM4
 #include "core_cmInstr.h"
-#include "core_cm4_simd.h"
+//#include "core_cm4_simd.h"
 
 
 
